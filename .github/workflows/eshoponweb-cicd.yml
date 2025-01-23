@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 99f6748c-b50f-494c-a1ac-67a7d06a3c24
   WEBAPP-NAME: The-DevOpsys
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
